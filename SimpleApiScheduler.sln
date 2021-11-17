@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sas.User.Cli", "Sas.User.Cli\Sas.User.Cli.csproj", "{A99744B5-16A1-4285-BA14-39C7D4718629}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sas.Core", "Sas.Core\Sas.Core.csproj", "{26DB8EAA-9AA3-42B9-9190-B15B383018B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A99744B5-16A1-4285-BA14-39C7D4718629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A99744B5-16A1-4285-BA14-39C7D4718629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A99744B5-16A1-4285-BA14-39C7D4718629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A99744B5-16A1-4285-BA14-39C7D4718629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26DB8EAA-9AA3-42B9-9190-B15B383018B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26DB8EAA-9AA3-42B9-9190-B15B383018B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26DB8EAA-9AA3-42B9-9190-B15B383018B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26DB8EAA-9AA3-42B9-9190-B15B383018B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CA1F325-A74F-4F93-B6F8-103C2AB2365F}
+	EndGlobalSection
+EndGlobal
